@@ -1,0 +1,15 @@
+.main-container {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-container {
+  width: Hug (408px) px;
+  height: Hug (76px) px;
+  gap: 8px;
+  opacity: 0px;
+}
